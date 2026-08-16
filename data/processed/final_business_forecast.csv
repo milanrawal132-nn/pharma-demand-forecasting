@@ -1,0 +1,9 @@
+Product,Model Used,Current Avg Monthly Sales,Next Month Forecast,Next Month CI Lower,Next Month CI Upper,Month+3 Forecast,Risk,"Backtest MAPE (1-month, %)"
+Anti-inflammatory (acetic acid derivatives),sarima,174.7,166.9,134.9,198.9,167.6,Stable,8.8
+Anti-inflammatory (propionic acid derivatives),sarima,101.1,119.5,71.4,167.7,120.0,High Demand,11.4
+Analgesics - salicylic acid derivatives,moving_average,90.2,90.2,62.3,118.0,90.2,Stable,13.0
+Analgesics - pyrazolones and anilides,sarima,717.5,1083.6,734.7,1432.4,957.2,High Demand,12.5
+Anxiolytics,sarima,238.5,241.2,166.0,316.4,255.6,Stable,11.4
+Hypnotics and sedatives,sarima,20.7,17.5,2.8,32.1,17.9,Declining,31.7
+Anti-asthmatic and COPD drugs,holt_winters,140.3,341.0,222.7,459.3,363.6,High Demand,25.0
+Antihistamines,holt_winters,103.9,81.5,19.3,143.7,52.0,Declining,21.2
