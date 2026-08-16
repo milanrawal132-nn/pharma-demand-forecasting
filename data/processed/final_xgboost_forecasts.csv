@@ -1,0 +1,17 @@
+category_code,category_name,horizon,forecast_date,forecast
+M01AB,Anti-inflammatory (acetic acid derivatives),1,2019-10-30,189.86732
+M01AB,Anti-inflammatory (acetic acid derivatives),3,2019-12-30,162.11412
+M01AE,Anti-inflammatory (propionic acid derivatives),1,2019-10-30,105.93131
+M01AE,Anti-inflammatory (propionic acid derivatives),3,2019-12-30,118.09698
+N02BA,Analgesics - salicylic acid derivatives,1,2019-10-30,98.81452
+N02BA,Analgesics - salicylic acid derivatives,3,2019-12-30,101.2331
+N02BE,Analgesics - pyrazolones and anilides,1,2019-10-30,1063.6239
+N02BE,Analgesics - pyrazolones and anilides,3,2019-12-30,1150.2186
+N05B,Anxiolytics,1,2019-10-30,259.0277
+N05B,Anxiolytics,3,2019-12-30,257.21973
+N05C,Hypnotics and sedatives,1,2019-10-30,16.366684
+N05C,Hypnotics and sedatives,3,2019-12-30,21.714989
+R03,Anti-asthmatic and COPD drugs,1,2019-10-30,320.2718
+R03,Anti-asthmatic and COPD drugs,3,2019-12-30,341.8107
+R06,Antihistamines,1,2019-10-30,87.998436
+R06,Antihistamines,3,2019-12-30,57.84356
